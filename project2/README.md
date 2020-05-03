@@ -4,4 +4,4 @@ Date: 3.05.2020
 
 To run the database system,
 
-     python storageManager.py input.txt output.txt
+     python 2015400024\src\storageManager.py input.txt output.txt
